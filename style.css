@@ -69,6 +69,10 @@ h1 {
     font: bold 16px/36px Georgia, serif;
     text-align: center;
 }
+h2{
+   font:bold 16px/24px Georgia, serif;
+   letter-spacing: 3px;
+}
 
 a:link {
     color: black;
@@ -87,13 +91,16 @@ a:active {
     text-align: center;
     letter-spacing: 12px;
 }
+.player {
+    padding:15px;
+}
 .left{
     width: 50%;
     float: left;
-    padding: 10px;
+    padding: 15px;
 }
 .right{
     width: 50%
     float: right;
-    padding: 10px;
+    padding: 15px;
 }
